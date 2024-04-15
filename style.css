@@ -1,0 +1,24 @@
+.head{
+    text-align: center;
+    background-color: skyblue;
+    color: pink;
+    font-weight: bold;
+}
+.G1{
+    color: blue;
+}
+.i1{
+    color: blue;
+}
+table,tr,td{
+border-collapse: collapse;
+border: 1px solid black;
+background-color: lightgoldenrodyellow;
+}
+table{
+width: 100%;
+
+}
+.checkbox{
+    padding-right: 300px;
+}
